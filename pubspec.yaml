@@ -2,6 +2,7 @@ name: app_layout
 description: Widget in Flutter is a responsive layout widget designed to adapt its content based on the screen width
 version: 0.0.1
 homepage: https://github.com/mtkz/app_layout
+repository: https://github.com/mtkz/app_layout
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
