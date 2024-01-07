@@ -32,7 +32,7 @@ class AppLayout extends StatelessWidget {
       height: mediaQuery.height,
     );
 
-    return context.size!.width < threshold!
+    return size.width < threshold!
         ? standardBuilder(
             size.height,
             size.width,
